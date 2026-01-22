@@ -19,7 +19,7 @@
 - 🧾 ServiceContract – Consumo de tokens para serviços
 
 ## 📫 Contato
-- LinkedIn: https://linkedin.com/in/seu-link
+- LinkedIn: https://linkedin.com/in/jonas-alaf-45321b257
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FEAF00?style=for-the-badge)
