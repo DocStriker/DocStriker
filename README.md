@@ -24,8 +24,3 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FEAF00?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DocStriker&show_icons=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DocStriker)
-
