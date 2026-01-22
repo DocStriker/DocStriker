@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**DocStriker/DocStriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Jonas
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Desenvolvedor Blockchain
+- 🔗 Solidity | Hardhat | Web3
+- 📚 Sempre aprendendo sobre segurança em smart contracts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Solidity
+- JavaScript / TypeScript
+- Hardhat
+- OpenZeppelin
+- Node.js
+
+## 📌 Projetos em destaque
+- 🔐 InfinityToken – ERC-20 com testes e segurança
+- 🧾 ServiceContract – Consumo de tokens para serviços
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/seu-link
+
